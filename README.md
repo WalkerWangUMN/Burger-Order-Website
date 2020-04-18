@@ -1,2 +1,2 @@
 # Burger-Order-Website
-Burger Order Website based on React.js service
+Personal project: Burger Order Website based on React.js service
